@@ -1,15 +1,18 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=550&height=50&lines=⚡+EXPLORE+FOLDER+LOCKER+%26+DETAILS+⚡;🚀+Click+Below+To+View+Live+Demo" alt="Typing SVG" />
+# ⚡ [ 🚀 EXPLORE FOLDER LOCKER & DETAILS 🚀 ](https://folder-locker.netlify.app) ⚡
+<sub>*Click the title or the button below to access the live web application and detailed documentation.*</sub>
 
 <br>
 
-<p><em>Access the live web application and detailed documentation below.</em></p>
+  <a href="https://folder-locker.netlify.app" target="_blank">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=90&section=footer&text=🌟%20VISIT%20FOR%20DETAIL%20&%20LIVE%20DEMO%20🌟&fontSize=20&fontAlign=50&fontAlignY=60&animation=fadeIn&fontColor=00ffcc" width="100%" />
+  </a>
 
-<br>
+<br><br>
 
-<a href="https://folder-locker.netlify.app" target="_blank">
-  <img src="https://img.shields.io/badge/🔒%20FOLDER%20LOCKER--%20VISIT%20DETAILS-🚀%20EXPLORE%20NOW-4F46E5?style=for-the-badge&logo=netlify&logoColor=white&labelColor=1E1B4B" alt="Visit For Detail">
-</a>
+  <a href="https://folder-locker.netlify.app" target="_blank">
+    <img src="https://img.shields.io/badge/🔥_CLICK_HERE_TO_VISIT_FOR_DETAIL-0d1117?style=for-the-badge&logo=netlify&logoColor=00ffcc&labelColor=1f2937" alt="Visit For Detail">
+  </a>
 
 </div>
