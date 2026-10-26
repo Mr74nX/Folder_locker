@@ -7,10 +7,9 @@
 <p><em>Access the live web application and detailed documentation below.</em></p>
 
 <p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black">
-  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white">
+  <img src="https://img.shields.io/badge/SECURITY-AES--256_ENCRYPTION-F59E0B?style=flat-square&logo=letsencrypt&logoColor=black">
+  <img src="https://img.shields.io/badge/PRIVACY-100%25_CLIENT_SIDE-F59E0B?style=flat-square&logo=gnupg&logoColor=black">
+  <img src="https://img.shields.io/badge/STATUS-ACTIVE_%26_SECURE-F59E0B?style=flat-square&logo=security&logoColor=black">
 </p>
 
 <br>
